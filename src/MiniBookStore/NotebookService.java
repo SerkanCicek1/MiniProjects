@@ -1,7 +1,7 @@
 package MiniBookStore;
 //2-b-ProductService i implement et ve metodları notebook için doldur
 //ödev:notebook için uygun şekilde doldurunu
-public class NotebookService implements ProductService{
+public class NotebookService implements dt.MiniBookStore.ProductService {
     @Override
     public void processMenu() {
 
